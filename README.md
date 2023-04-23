@@ -1,0 +1,1 @@
+# Midjourney-prompt-for-Python
